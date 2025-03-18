@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
             {
                 source: "/",
                 destination: "/pokemon",
-                permanent: true, // Set to true if you want a 301 permanent redirect
+                permanent: true,
             },
         ];
     },
